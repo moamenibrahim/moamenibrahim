@@ -18,7 +18,7 @@ Welcome to my github profile! I like developing new software apps in various fie
     <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg' alt='csharp' width='40' height='40' />
   </a> 
   <a href='https://www.w3schools.com/CPP/default.asp' target='_blank'>
-    <img src='https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' alt='csharp' width='40' height='40' />
+    <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg' alt='csharp' width='40' height='40' />
   </a> 
   <a href='https://www.djangoproject.com/' target='_blank'>
     <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg' alt='django' width='40' height='40' />
