@@ -2,10 +2,11 @@
 
 Welcome to my github profile! I like developing new software apps in various fields, loves Machine learning and AI and a DevOps enthusiast. 
 
+- 🖖 I’m currently building a ray-tracing engine using Vulkan for fun!
 - 🔭 I’m currently working on full stack applications, microservices and reinforcement learning
 - 👯 I’m looking to collaborate on open source tools 
-- 🌱 I’m currently learning event streaming and graphDB applications using my hobby project
-- 📫 How to reach me: any means of contact you would like :wink:
+- 🌱 I’m currently learning event streaming services, graphQl and graphDB applications in my free time.
+- 📫 How to reach me: any means of contact you would like 😄
 
 [![Moamen's github stats](https://github-readme-stats.vercel.app/api?username=moamenibrahim&theme=dark&show_icons=true)](https://github.com/moamenibrahim)
 
@@ -15,6 +16,9 @@ Welcome to my github profile! I like developing new software apps in various fie
   <img src='https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg' alt='bash' width='40' height='40' /> </a>
   <a href='https://www.w3schools.com/cs/' target='_blank'>
     <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg' alt='csharp' width='40' height='40' />
+  </a> 
+  <a href='https://www.w3schools.com/CPP/default.asp' target='_blank'>
+    <img src='https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' alt='csharp' width='40' height='40' />
   </a> 
   <a href='https://www.djangoproject.com/' target='_blank'>
     <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg' alt='django' width='40' height='40' />
