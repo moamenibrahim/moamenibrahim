@@ -3,9 +3,9 @@
 Welcome to my github profile! I like developing new software apps in various fields, loves Machine learning and AI and a DevOps enthusiast. 
 
 - 🖖 I’m currently building a ray-tracing engine using Vulkan for fun!
-- 🔭 I’m currently working on full stack applications, microservices and reinforcement learning
+- 🔭 I’m currently working on full stack applications, microservices, and reinforcement learning
 - 👯 I’m looking to collaborate on open source tools 
-- 🌱 I’m currently learning event streaming services, graphQl and graphDB applications in my free time.
+- 🌱 currently working with solution as service applications, event streaming services and graphDBs
 - 📫 How to reach me: send me an email to <mmibrahem76@gmail.com>
 
 [![Moamen's github stats](https://github-readme-stats.vercel.app/api?username=moamenibrahim&theme=dark&show_icons=true)](https://github.com/moamenibrahim)
