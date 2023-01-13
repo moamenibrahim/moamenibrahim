@@ -8,7 +8,7 @@ Welcome to my github profile! I like developing new software apps in various fie
 - 🌱 currently working with solution as service applications, event streaming services and graphDBs
 - 📫 How to reach me: send me an email to <mmibrahem76@gmail.com>
 
-[![Moamen's github stats](https://github-readme-stats.vercel.app/api?username=moamenibrahim&theme=dark&show_icons=true)](https://github.com/moamenibrahim)
+[![Moamen's github stats](https://github-readme-stats.vercel.app/api?username=moamenibrahim&theme=dark&show_icons=true)](https://github.com/moamenibrahim/github-readme-stats)
 
 ## 🔨 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
