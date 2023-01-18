@@ -7,7 +7,7 @@ Welcome to my github profile! I like developing new software apps in various fie
 - 👯 I’m looking to collaborate on open source tools 
 - 📫 How to reach me: send me an email to <mmibrahem76@gmail.com>
 
-[![Moamen's github stats](https://github-readme-stats.vercel.app/api?username=moamenibrahim&theme=dark&show_icons=true)](https://github.com/moamenibrahim/github-readme-stats)
+[![Moamen's github stats](https://my-vercel-moamenibrahim.vercel.app/api?username=moamenibrahim&theme=dark&show_icons=true)](https://github.com/moamenibrahim/github-readme-stats)
 
 ## 🔨 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
