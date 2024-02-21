@@ -3,8 +3,8 @@
 Welcome to my github profile! I like developing new software apps in various fields, loves Machine learning and AI and a DevOps enthusiast. 
 
 - 🖖 I’m currently building a ray-tracing engine using Vulkan for fun!
-- 🔭 I’m currently learning MLOps for cloud
-- 👯 I’m looking to collaborate on open source tools 
+- 🔭 I’m working with Data and MLOps for cloud
+- 👯 I’m looking forward to collaborate on open source tools 
 - 📫 How to reach me: send me an email to <moamen.ibrahim.work@gmail.com>
 
 <!---
