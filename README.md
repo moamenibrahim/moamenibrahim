@@ -15,6 +15,6 @@ Welcome to my github profile! I like developing new software apps in various fie
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,cs,cpp,django,docker,flask,git,js,kubernetes,linux,nodejs,postgres,python,react,rust,ts" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,bash,cpp,cs,django,docker,flask,gcp,git,go,js,kubernetes,linux,mongodb,nodejs,postgres,python,react,rust,ts&perline=7" />
   </a>
 </p>
